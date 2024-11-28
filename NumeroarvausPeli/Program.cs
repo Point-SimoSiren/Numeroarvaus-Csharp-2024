@@ -1,5 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+
+// Console.ForegroundColor = ConsoleColor.White;
+// Console.BackgroundColor = ConsoleColor.Blue;
+
 // Muuttujien esittely
 int arvaus;
 int arvottuLuku;
